@@ -8,7 +8,7 @@ const positionElement = (e)=> {
     setTimeout(()=>{
         cursor.style.top = `${mouseY}px`;
         cursor.style.left = `${mouseX}px`;
-    }, 100);
+    }, 10);
 
 }
 

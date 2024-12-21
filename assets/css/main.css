@@ -1920,7 +1920,7 @@ body::before {
   background: #f00;
   transform-origin: bottom;
   animation: eating-top .5s infinite;
-  --primaryClr: #474747; 
+  --primaryClr: #ce9999; 
   --pacman-zise: 70px;
   
   &, &::before {
